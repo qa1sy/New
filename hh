@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My first ohio diddy blud</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+        h1 { color: black; }
+        p { font-size: 18px; }
+    </style>
+</head>
+<body>
+    <h1>haryad is gay perhaps</h1>
+    <p>definitily.</p>
+    <button onclick="alert('u r gay
+')">Click for femboy</button>
+</body>
+</html>
